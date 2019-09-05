@@ -1,0 +1,92 @@
+[Author]
+AuthorName = Thomas
+Callsign = AC9BJ
+Email = ac9bj@arrl.net
+
+[File]
+Revision = 1.0.1
+LastUpdate = 2019-09-04
+Description = Wisconsin Parks on the Air. See the rules.
+
+[Contest]
+Name = WIPOTA
+DisplayName = Wisconsin Parks on the Air
+CabrilloName = WI-POTA
+Mode = SSB
+DupeType = 2
+Multiplier1Name = Sect
+Multiplier2Name =
+Multiplier3Name =
+Period = 1
+PointsPerContact = 80m,1, 40m,1, 20m,1, 15m,1, 10m,1, 2m,1
+ShowMyCountryStations =
+ShowWarcBands =
+ZoneType =
+MultSqlString = Section
+MultSqlString2 =
+MultSqlString3 =
+MultWindowType = WIPOTA
+IsMultPer = 4
+IsMult1Per =
+IsMult2Per =
+IsMult3Per =
+DoNotCountMeAsMult =
+DoNotCountMeAsMult2 =
+DoNotCountMeAsMult3 =
+CountMultOnlyFor =
+CountMultOnlyFor2 =
+CountMultOnlyFor3 =
+CountMultOnlyForSec =
+CountMultOnlyForSec2 =
+CountMultOnlyForSec3 =
+MultiplierBands =
+CQZoneMultContest =
+NumMults = 1
+BonusPoints =
+BonusPoints2 =
+
+DoNotCountMeAsMult =
+CountMultOnlyFor =
+DoNotCountMultOnlyFor =
+CountMultOnlyForSec =
+
+QsoErrorString = Any
+EntryWindowInfo = SNTText, 450, RCVText, 450, Exchange1Text, 700
+FrameText = SntRpt RcvRpt Exch
+LogInfo = SentReport, 450, ReceiveReport, 450, Exchange1, 700, IsMultiplier1, 300, Points, 500
+DefaultContestExchange = Park/S/P/C
+CabrilloVersion = 3.0
+CabrilloFormat = 99
+CabrilloString = SNT, 4, SentExch, 10, CallSign, 13, RCV, 4, Exchange1, 10
+GenericPrintString =
+GenericPrintStringHeader =
+IsWorkable = Any
+SpecialInstructions =
+
+DupeSqlString = 1
+StartOfContest = 1,16
+EndOfContest = 1,23
+MinimumOffTime = 0
+UsesWAECountries =
+QsoNumbersByBand = 0
+SetSentTimeForContact =
+ScoreSummaryMultNames = WIP
+WebAddress = http://wipota.com/files/WIPOTA_contest_rules.pdf
+DigitalModeSqlString =
+MultipleSessions =
+ResetMultsEverySession =
+ResetSNEverySession =
+
+MultMult =
+MultMult2 =
+MultMult3 =
+
+SingleOpCountableBandChange =
+SOBandChangeCountMax =
+SOBandChangeTimerDuration =
+MultiOpCountableBandChange =
+MOBandChangeCountMax =
+MOBandChangeTimerDuration =
+CountBandOrModeChange =
+CountBandChangesPerContest =
+CountBandChangesPerPeriod =
